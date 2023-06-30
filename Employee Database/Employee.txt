@@ -1,0 +1,32 @@
+{
+  "4": {
+    "employee_id": "4",
+    "employee_name": "Lan",
+    "employee_birthday": "04/04/87",
+    "employee_birthplace": "Hanoi"
+  },
+  "2": {
+    "employee_id": "2",
+    "employee_name": "An",
+    "employee_birthday": "04/06/98",
+    "employee_birthplace": "Hanoi"
+  },
+  "5": {
+    "employee_id": "5",
+    "employee_name": "Tuan",
+    "employee_birthday": "02/02/89",
+    "employee_birthplace": "Danang"
+  },
+  "1": {
+    "employee_id": "1",
+    "employee_name": "Ha",
+    "employee_birthday": "12/09/90",
+    "employee_birthplace": "Hanoi"
+  },
+  "3": {
+    "employee_id": "3",
+    "employee_name": "Binh",
+    "employee_birthday": "01/05/92",
+    "employee_birthplace": "Hanoi"
+  }
+}

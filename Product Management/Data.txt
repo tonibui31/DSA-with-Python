@@ -1,0 +1,44 @@
+{
+  "P03": {
+    "product_id": "P03",
+    "product_name": "Sugar",
+    "product_quantity": 12,
+    "product_price": 25.1
+  },
+  "P01": {
+    "product_id": "P01",
+    "product_name": "Miliket",
+    "product_quantity": 10,
+    "product_price": 5.2
+  },
+  "P02": {
+    "product_id": "P02",
+    "product_name": "Apple",
+    "product_quantity": 5,
+    "product_price": 4.3
+  },
+  "P05": {
+    "product_id": "P05",
+    "product_name": "Rose",
+    "product_quantity": 7,
+    "product_price": 15.4
+  },
+  "P07": {
+    "product_id": "P07",
+    "product_name": "Beer",
+    "product_quantity": 11,
+    "product_price": 12.2
+  },
+  "P04": {
+    "product_id": "P04",
+    "product_name": "Book",
+    "product_quantity": 9,
+    "product_price": 5.2
+  },
+  "P06": {
+    "product_id": "P06",
+    "product_name": "Rice",
+    "product_quantity": 10,
+    "product_price": 3.0
+  }
+}
